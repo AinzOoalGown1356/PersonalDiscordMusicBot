@@ -1,0 +1,5 @@
+pip install discord
+pip install random
+pip install asyncio
+pip install yt_dlp
+pip install queue
