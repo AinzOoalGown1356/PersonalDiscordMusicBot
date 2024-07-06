@@ -2,7 +2,7 @@
 Since a lot of discord music bots are being blocked by youtube nowadays I've decided to write up a quick project that will allow anyone to host their own discord bot. This bot includes the following commands:
 
 /play - plays a song either via name or youtube link
-/nowplaying - Displays what song is currently playing
+/nowplaying - Displays what song is currently playing\
 /q - displays the current music queue and their ids\
 /remove # - Removes a song from the queue, replace # with the song id you want removed (Hint: Do /q before and it will display the songs in queue and their respective IDS)\
 /skip - skips the current song being played\
